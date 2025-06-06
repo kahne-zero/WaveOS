@@ -23,7 +23,6 @@ Publishing a distribution must include this original license and a credit.md fil
 
 credit.md must include a date of publication. Date does not need to be updated for every release.
 
-\/
 Editing a distribution?
 
 You must keep the original person's credits in credit.md and then add yours under theirs, along with a link to the original distribution.
