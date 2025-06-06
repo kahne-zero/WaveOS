@@ -12,6 +12,7 @@ WaveOS is an open-source operating system.
 You may:
 - Edit files, share edited files.
 - Release distributions.
+
 You may not:
 - Remove this license.
 
