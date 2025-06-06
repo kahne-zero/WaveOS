@@ -16,9 +16,14 @@ You may not:
 - Remove this license.
 
 For making distributions:
+
 When making a distribution of WaveOS, you may modify it however you like to make it feel how you like.
+
 Publishing a distribution must include this original license and a credit.md file with your (and/or the other editors) credits, like GitHub usernames.
+
 credit.md must include a date of publication. Date does not need to be updated for every release.
+
 \/
 Editing a distribution?
+
 You must keep the original person's credits in credit.md and then add yours under theirs, along with a link to the original distribution.
