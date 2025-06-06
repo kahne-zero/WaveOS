@@ -1,6 +1,7 @@
 # WaveOS License
 (C) @kahne_zero, 2025
 Version 1.0
+
 **This license is legally binding.**
 **By viewing, modifying, or using WaveOS, you are agreeing to this license.**
 **License is governed by laws of North Carolina, USA.**
